@@ -61,7 +61,7 @@ public class MainController {
 			
 			return "login";
 		}
-		return "error";
+		return "login";
 		
 	}
 	
